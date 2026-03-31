@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next js and React Native**
 
-- 👨‍💻 All of my projects are available at [https://harsh-portfolio-react.netlify.app/](https://harsh-portfolio-react.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://harsh-v1.vercel.app/](https://harsh-v1.vercel.app/)
 
 - 💬 Ask me about **react,express and mongodb**
 
